@@ -22,7 +22,7 @@
 
 ### About
 
-I'm a BTech student at Uka Tarsadia University, Chikhli, and part of the management team at GDGC AMTICS. I learn by building, and I usually start a project before I fully know the stack it needs. That has taught me more than any tutorial.
+I'm a BTech student at Uka Tarsadia University, Bardoli, and part of the management team at GDGC AMTICS. I learn by building, and I usually start a project before I fully know the stack it needs. That has taught me more than any tutorial.
 
 Right now I'm working on **[MetaLens](https://github.com/darshanyadav-dev/MetaLens)** and going deeper into full-stack development: backend systems, APIs, databases, and adding AI where it actually helps. Longer term, I want to build intelligent systems that connect software with the physical world, which is why automation, IoT and robotics keep pulling me in.
 

@@ -1,33 +1,126 @@
-<h1 align="center">Hi 👋, I'm Darshan Yadav</h1>
-<h3 align="center">A passionate second year BTECH CSE student currently learning Full Stack Development alongside building projects and managing social media presence by the name Darshan Builds.</h3>
+<h1 align="center">Darshan Yadav</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshanyadav-dev&label=Profile%20views&color=0e75b6&style=flat" alt="darshanyadav-dev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshanyadav-dev" alt="darshanyadav-dev" /></a> </p>
-
-- 🔭 I’m currently working on [MetaLens](https://github.com/darshanyadav-dev/MetaLens.git)
-
-- 🌱 I’m currently learning **Full Stack Development**
-
-- 💬 Ask me about **php, java, MySql**
-
-- 📫 How to reach me **mrdarshanyadav910@gmail.com**
-
-- ⚡ Fun fact **I start making projects with zero knowledge of the tech stack I'll use.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/darshan-yadav-27794b379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan-yadav-27794b379" height="30" width="40" /></a>
-<a href="https://instagram.com/darshan_builds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darshan_builds" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@darshanbuilds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@darshanbuilds" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/darshanyadav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="darshanyadav_" height="30" width="40" /></a>
+<p align="center">
+  Second-year CSE student building full-stack projects and documenting the process as <b>Darshan Builds</b>.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/darshan-yadav-27794b379"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/darshan_builds"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.youtube.com/@darshanbuilds"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.leetcode.com/darshanyadav_"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="mailto:mrdarshanyadav910@gmail.com"><img src="https://img.shields.io/badge/Email-30363d?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshanyadav-dev&show_icons=true&locale=en&layout=compact" alt="darshanyadav-dev" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=darshanyadav-dev&label=Profile%20views&color=30363d&style=flat-square" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/darshanyadav-dev?label=Followers&style=flat-square&color=30363d&logo=github" alt="Followers">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/darshanyadav-dev&query=$.public_repos&label=Public%20repos&style=flat-square&color=30363d&logo=github" alt="Public repos">
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshanyadav-dev&show_icons=true&locale=en" alt="darshanyadav-dev" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshanyadav-dev&" alt="darshanyadav-dev" /></p>
+### About
+
+I'm a BTech student at Uka Tarsadia University, Chikhli, and part of the management team at GDGC AMTICS. I learn by building, and I usually start a project before I fully know the stack it needs. That has taught me more than any tutorial.
+
+Right now I'm working on **[MetaLens](https://github.com/darshanyadav-dev/MetaLens)** and going deeper into full-stack development: backend systems, APIs, databases, and adding AI where it actually helps. Longer term, I want to build intelligent systems that connect software with the physical world, which is why automation, IoT and robotics keep pulling me in.
+
+- Currently building: [MetaLens](https://github.com/darshanyadav-dev/MetaLens)
+- Currently learning: Full Stack Development
+- Ask me about: PHP, Java, MySQL
+- Open to: real engineering problems, hackathons, and learning from people who've shipped things
+
+---
+
+### Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/darshanyadav-dev/MetaLens">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=darshanyadav-dev&repo=MetaLens&hide_border=true&theme=github_dark">
+          <img alt="MetaLens" src="https://github-readme-stats.vercel.app/api/pin/?username=darshanyadav-dev&repo=MetaLens&hide_border=true">
+        </picture>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/keshxvv21/Navsetu">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=keshxvv21&repo=Navsetu&hide_border=true&theme=github_dark">
+          <img alt="NavSetu" src="https://github-readme-stats.vercel.app/api/pin/?username=keshxvv21&repo=Navsetu&hide_border=true">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <!--
+  Add InternHub AI here once the repo is public. Replace YOUR_REPO_NAME:
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/darshanyadav-dev/YOUR_REPO_NAME">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=darshanyadav-dev&repo=YOUR_REPO_NAME&hide_border=true&theme=github_dark">
+          <img alt="InternHub AI" src="https://github-readme-stats.vercel.app/api/pin/?username=darshanyadav-dev&repo=YOUR_REPO_NAME&hide_border=true">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  -->
+</table>
+
+**InternHub AI** is an AI-assisted internship management platform with task management, submissions, role-based workflows, authentication and automated evaluation. **NavSetu** is a government-startup procurement platform built with my team at the Srijan Setu hackathon.
+
+---
+
+### Tech stack
+
+<p>
+  <a href="https://skillicons.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,java,py,js,php,html,css,mysql,postgres,git,github,linux&theme=dark&perline=12">
+      <img alt="Tech stack" src="https://skillicons.dev/icons?i=c,java,py,js,php,html,css,mysql,postgres,git,github,linux&theme=light&perline=12">
+    </picture>
+  </a>
+</p>
+
+---
+
+### GitHub analytics
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=darshanyadav-dev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark">
+    <img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=darshanyadav-dev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanyadav-dev&layout=compact&langs_count=8&hide_border=true&theme=github_dark">
+    <img alt="Top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanyadav-dev&layout=compact&langs_count=8&hide_border=true">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=darshanyadav-dev&hide_border=true&theme=github-dark">
+    <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=darshanyadav-dev&hide_border=true">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=darshanyadav-dev&bg_color=0d1117&color=8b949e&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true">
+    <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=darshanyadav-dev&bg_color=ffffff&color=57606a&line=0969da&point=24292f&area=true&area_color=0969da&hide_border=true">
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=darshanyadav-dev&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Built in public. Still learning.</sub>
+</p>

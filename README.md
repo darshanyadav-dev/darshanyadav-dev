@@ -1,12 +1,4 @@
-<p align="center">
-  <img
-    src="./Me.jpg"
-    width="180"
-    height="180"
-    style="border-radius: 50%; object-fit: cover;"
-    alt="Darshan Yadav"
-  />
-</p>
+
 # Hi, I'm Darshan Yadav
 
 ### Building things, solving problems, and learning how technology works.

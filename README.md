@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="Me.jpg"
+    src="./Me.jpg"
     width="180"
     height="180"
     style="border-radius: 50%; object-fit: cover;"

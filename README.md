@@ -1,4 +1,4 @@
-# Hi, I'm Darshan Yadav 👋
+# Hi, I'm Darshan Yadav 
 
 ### Building things, solving problems, and learning how technology works.
 
@@ -6,15 +6,15 @@ I'm a Computer Science undergraduate interested in software development, problem
 
 I enjoy taking ideas from zero to working prototypes, exploring unfamiliar technologies, and learning by building.
 
-- 🔭 Currently exploring: **MetaLens — Digital Image Forensics**
-- 🌱 Learning: **Full-Stack Development**
-- 💻 Interested in: **Software Engineering, Web Development & Emerging Technologies**
-- 🛠️ Approach: **Learn. Build. Experiment. Improve.**
-- ⚡ Fun fact: I sometimes start building before I know the entire tech stack. That's how I learn.
+-  Currently exploring: **MetaLens — Digital Image Forensics**
+-  Learning: **Full-Stack Development**
+-  Interested in: **Software Engineering, Web Development & Emerging Technologies**
+-  Approach: **Learn. Build. Experiment. Improve.**
+-  Fun fact: I sometimes start building before I know the entire tech stack. That's how I learn.
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -36,7 +36,7 @@ I enjoy taking ideas from zero to working prototypes, exploring unfamiliar techn
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 1. InternHub AI
 **An internship management and AI-assisted code review platform prototype.**
@@ -61,7 +61,7 @@ An exploration of image metadata and digital image forensics, with an emphasis o
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=darshanyadav-dev&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=transparent" alt="GitHub statistics" />
@@ -72,7 +72,7 @@ An exploration of image metadata and digital image forensics, with an emphasis o
   <img src="https://github-readme-streak-stats.vercel.app/?user=darshanyadav-dev&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 </p>
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshanyadav-dev&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
@@ -80,7 +80,7 @@ An exploration of image metadata and digital image forensics, with an emphasis o
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/darshan-yadav-27794b379">

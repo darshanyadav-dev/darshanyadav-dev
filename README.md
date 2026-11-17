@@ -1,87 +1,55 @@
-# Hi, I'm Darshan Yadav 
+<div align="center">
+  <!-- Dynamic Typing SVG Header -->
+  <a href="https://git.io">
+    <img src="https://demolab.com." alt="Typing SVG" />
+  </a>
 
-### Building things, solving problems, and learning how technology works.
-
-I'm a Computer Science undergraduate interested in software development, problem-solving, and building technology that addresses real-world challenges.
-
-I enjoy taking ideas from zero to working prototypes, exploring unfamiliar technologies, and learning by building.
-
--  Currently exploring: **MetaLens — Digital Image Forensics**
--  Learning: **Full-Stack Development**
--  Interested in: **Software Engineering, Web Development & Emerging Technologies**
--  Approach: **Learn. Build. Experiment. Improve.**
--  Fun fact: I sometimes start building before I know the entire tech stack. That's how I learn.
-
----
-
-##  Tech Stack
-
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,java,python,php,js" />
-</p>
-
-**Web Development & Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,mysql,postgresql" />
-</p>
-
-**Tools & Platforms**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-</p>
+  <p align="center">
+    <a href="https://linkedin.com/in/darshan-yadav-27794b379"><img src="https://shields.io" /></a>
+    <a href="https://youtube.com/@darshanbuilds"><img src="https://shields.io" /></a>
+    <a href="https://instagram.com/darshan_builds"><img src="https://shields.io" /></a>
+    <a href="mailto:mrdarshanyadav910@gmail.com"><img src="https://shields.io" /></a>
+  </p>
+</div>
 
 ---
 
-##  Featured Projects
+### About Me
+I’m a **Computer Science undergraduate** obsessed with taking ideas from zero to working prototypes. I don't wait to master an entire stack before starting—I **learn by building, breaking, and shipping**.
 
-### 1. InternHub AI
-**An internship management and AI-assisted code review platform prototype.**
-
-Exploring internship workflows through student dashboards, mentor interfaces, task management, and AI-assisted feedback concepts.
-
-[View Repository](https://github.com/darshanyadav-dev/InternHub-AI)
-
-### 2. Digital Farm Assistant
-**A Python-based application for simplifying farm operations.**
-
-A menu-driven application designed to organize crop management, worker tracking, expense recording, income tracking, and profit calculations.
-
-[View Repository](https://github.com/darshanyadav-dev/Digital-Farm-Assistant-)
-
-### 3. MetaLens
-**Currently in development — Digital Image Forensics.**
-
-An exploration of image metadata and digital image forensics, with an emphasis on understanding image information and examining digital files.
-
-[View Repository](https://github.com/darshanyadav-dev/MetaLens)
+* **Currently exploring:** `MetaLens` — Digital Image Forensics
+*  **Deep-diving into:** Full-Stack Web Development
+*  **Core focus:** Software Engineering, Scalable Web Apps & Emerging Tech
+*  **Motto:** *Learn. Build. Experiment. Improve.*
 
 ---
 
+###  Tech Stack
 
+<div align="center">
+  <img src="https://skillicons.dev" />
+</div>
 
 ---
 
-## Let's Connect
+###  Featured Builds
+
+| Project | What it Does | Tech & Status |
+| :--- | :--- | :--- |
+| **[InternHub AI](https://github.com/darshanyadav-dev/InternHub-AI)** | Internship management & AI-assisted code review platform featuring student/mentor dashboards and automated feedback workflows. | `Full-Stack` `AI` <br> ![Status](https://shields.io) |
+| **[MetaLens](https://github.com/darshanyadav-dev/MetaLens)** | Digital image forensics tool built to extract hidden metadata, analyze file integrity, and inspect digital footprints. | `Forensics` `Security` <br> ![Status](https://shields.io) |
+| **[Digital Farm Assistant](https://github.com/darshanyadav-dev/Digital-Farm-Assistant-)** | CLI-based farm operations manager handling crop cycles, worker logs, expense tracking, and automated profit calculations. | `Python` `Automation` <br> ![Status](https://shields.io) |
+
+---
+ GitHub Pulse
+
+<div align="center">
+  <img height="165" src="https://vercel.app" />
+  <img height="165" src="https://vercel.app" />
+</div>
+
+---
 
 <p align="center">
-  <a href="https://linkedin.com/in/darshan-yadav-27794b379">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/darshan_builds">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@darshanbuilds">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="mailto:mrdarshanyadav910@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Always learning. Always building.</i>
+  <i>"Always learning. Always building."</i>
 </p>
